@@ -2,7 +2,6 @@ require('./config/config');
 
 var express = require('express');
 var bodyParser = require('body-parser');
-
 const _ = require('lodash');
 
 const {ObjectID} = require('mongodb') 
